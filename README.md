@@ -1,6 +1,5 @@
 # Fine-Tuning-DistilBERT-for-Emotion-Classification-on-Tweets
 
-# Fine-Tuning DistilBERT for Emotion Classification
 
 This project fine-tunes a DistilBERT model on the [dair-ai/emotion dataset](https://huggingface.co/datasets/dair-ai/emotion) to classify text into six emotions: sadness, joy, love, anger, fear, and surprise.
 
@@ -24,6 +23,3 @@ This project fine-tunes a DistilBERT model on the [dair-ai/emotion dataset](http
 2. Open `Fine_Tuning.ipynb` in Jupyter Notebook or Google Colab
 3. Follow the steps in the notebook
 
-## Future Work
-- Experiment with different learning rates
-- Try other transformer models (e.g., BERT, RoBERTa)
